@@ -2,7 +2,8 @@
 
 This is an Employee management project 
 
-This project is made of ASP.NET Core MVC, Entity Framework Core, HTML and little bit of Bootstrap
+This project is made of ASP.NET Core MVC, Entity Framework Core, HTML and a little bit of Bootstrap.
+
 Here I have performed 
 1. Create 
 2. Read 
